@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Resources\Backgrounds\black.png</Source>
+      <Name>Resources\Backgrounds\black</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\black.xnb</Output>
+      <Time>2014-08-23T20:57:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Characters\player.png</Source>
+      <Name>Resources\Characters\player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\player.xnb</Output>
+      <Time>2014-08-23T21:19:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Particles\WhiteStar.png</Source>
+      <Name>Resources\Particles\WhiteStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\WhiteStar.xnb</Output>
+      <Time>2014-08-23T23:35:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Characters\asteroid.png</Source>
+      <Name>Resources\Characters\asteroid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\asteroid.xnb</Output>
+      <Time>2014-08-24T18:55:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Particles\YellowStar.png</Source>
+      <Name>Resources\Particles\YellowStar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\YellowStar.xnb</Output>
+      <Time>2014-08-24T22:11:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Particles\Planet.png</Source>
+      <Name>Resources\Particles\Planet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Planet.xnb</Output>
+      <Time>2014-08-24T22:44:46+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Ammo\Laser.png</Source>
+      <Name>Resources\Ammo\Laser</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Ammo\Laser.xnb</Output>
+      <Time>2014-08-25T13:32:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Particles\Explosion.png</Source>
+      <Name>Resources\Particles\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Explosion.xnb</Output>
+      <Time>2014-08-25T13:57:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\Title.png</Source>
+      <Name>Resources\MainMenu\Title</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Title.xnb</Output>
+      <Time>2014-08-25T15:39:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\MainButtons\controlsbuttonhover.png</Source>
+      <Name>Resources\MainMenu\MainButtons\controlsbuttonhover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonhover.xnb</Output>
+      <Time>2014-08-25T16:11:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\MainButtons\controlsbuttonstatic.png</Source>
+      <Name>Resources\MainMenu\MainButtons\controlsbuttonstatic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonstatic.xnb</Output>
+      <Time>2014-08-25T16:11:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\MainButtons\exitbuttonhover.png</Source>
+      <Name>Resources\MainMenu\MainButtons\exitbuttonhover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonhover.xnb</Output>
+      <Time>2014-08-25T16:11:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\MainButtons\exitbuttonstatic.png</Source>
+      <Name>Resources\MainMenu\MainButtons\exitbuttonstatic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonstatic.xnb</Output>
+      <Time>2014-08-25T16:11:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\MainButtons\playbuttonhover.png</Source>
+      <Name>Resources\MainMenu\MainButtons\playbuttonhover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonhover.xnb</Output>
+      <Time>2014-08-25T16:11:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\MainButtons\playbuttonstatic.png</Source>
+      <Name>Resources\MainMenu\MainButtons\playbuttonstatic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonstatic.xnb</Output>
+      <Time>2014-08-25T16:11:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\Difficulty\easybutton.png</Source>
+      <Name>Resources\MainMenu\Difficulty\easybutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybutton.xnb</Output>
+      <Time>2014-08-25T16:28:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\Difficulty\easybuttonhover.png</Source>
+      <Name>Resources\MainMenu\Difficulty\easybuttonhover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybuttonhover.xnb</Output>
+      <Time>2014-08-25T16:28:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\Difficulty\hardbutton.png</Source>
+      <Name>Resources\MainMenu\Difficulty\hardbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbutton.xnb</Output>
+      <Time>2014-08-25T16:28:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\Difficulty\hardbuttonhover.png</Source>
+      <Name>Resources\MainMenu\Difficulty\hardbuttonhover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbuttonhover.xnb</Output>
+      <Time>2014-08-25T16:28:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\Difficulty\normalbutton.png</Source>
+      <Name>Resources\MainMenu\Difficulty\normalbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbutton.xnb</Output>
+      <Time>2014-08-25T16:28:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\Difficulty\normalbuttonhover.png</Source>
+      <Name>Resources\MainMenu\Difficulty\normalbuttonhover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbuttonhover.xnb</Output>
+      <Time>2014-08-25T16:28:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\Difficulty\PlayBackground.png</Source>
+      <Name>Resources\MainMenu\Difficulty\PlayBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\PlayBackground.xnb</Output>
+      <Time>2014-08-25T18:09:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\ControlsBackground.png</Source>
+      <Name>Resources\MainMenu\ControlsBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\ControlsBackground.xnb</Output>
+      <Time>2014-08-26T03:43:08+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\PausedBackground.png</Source>
+      <Name>Resources\MainMenu\PausedBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\PausedBackground.xnb</Output>
+      <Time>2014-08-26T03:14:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\resumebuttonhover.png</Source>
+      <Name>Resources\MainMenu\resumebuttonhover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonhover.xnb</Output>
+      <Time>2014-08-26T03:22:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\MainMenu\resumebuttonstatic.png</Source>
+      <Name>Resources\MainMenu\resumebuttonstatic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonstatic.xnb</Output>
+      <Time>2014-08-26T03:22:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Particles\ShipExplosion.png</Source>
+      <Name>Resources\Particles\ShipExplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\ShipExplosion.xnb</Output>
+      <Time>2014-08-26T03:53:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Backgrounds\AAF.png</Source>
+      <Name>Resources\Backgrounds\AAF</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\AAF.xnb</Output>
+      <Time>2014-08-26T16:54:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Backgrounds\WinWindow.png</Source>
+      <Name>Resources\Backgrounds\WinWindow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\WinWindow.xnb</Output>
+      <Time>2014-08-26T17:28:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Backgrounds\Splash.png</Source>
+      <Name>Resources\Backgrounds\Splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\Splash.xnb</Output>
+      <Time>2015-01-23T00:33:12.7801458+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Backgrounds\FadeTexture.png</Source>
+      <Name>Resources\Backgrounds\FadeTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FadeTexture.xnb</Output>
+      <Time>2014-08-29T14:41:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Backgrounds\FinishLine.png</Source>
+      <Name>Resources\Backgrounds\FinishLine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FinishLine.xnb</Output>
+      <Time>2014-08-29T14:46:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Fonts\ElapsedGameTime.spritefont</Source>
+      <Name>Resources\Fonts\ElapsedGameTime</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\ElapsedGameTime.xnb</Output>
+      <Time>2014-08-24T17:52:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Fonts\PlayerPosition.spritefont</Source>
+      <Name>Resources\Fonts\PlayerPosition</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\PlayerPosition.xnb</Output>
+      <Time>2014-08-24T17:52:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Fonts\Score.spritefont</Source>
+      <Name>Resources\Fonts\Score</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Score.xnb</Output>
+      <Time>2014-08-24T22:53:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Fonts\Ammo.spritefont</Source>
+      <Name>Resources\Fonts\Ammo</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Ammo.xnb</Output>
+      <Time>2014-08-25T18:06:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Fonts\FinalScore.spritefont</Source>
+      <Name>Resources\Fonts\FinalScore</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\FinalScore.xnb</Output>
+      <Time>2014-08-26T17:35:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\SoundEffects\AsteroidExplosion.mp3</Source>
+      <Name>Resources\SoundEffects\AsteroidExplosion</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\AsteroidExplosion.xnb</Output>
+      <Time>2014-08-26T14:21:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Music\MainMenu.mp3</Source>
+      <Name>Resources\Music\MainMenu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.xnb</Output>
+      <Extra>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.wma</Extra>
+      <Time>2014-08-26T14:01:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\SoundEffects\Laser.mp3</Source>
+      <Name>Resources\SoundEffects\Laser</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\Laser.xnb</Output>
+      <Time>2014-08-26T14:18:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\SoundEffects\ShipExplosion.mp3</Source>
+      <Name>Resources\SoundEffects\ShipExplosion</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\ShipExplosion.xnb</Output>
+      <Time>2014-08-26T16:35:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\SoundEffects\NewDialogue.mp3</Source>
+      <Name>Resources\SoundEffects\NewDialogue</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\NewDialogue.xnb</Output>
+      <Time>2014-08-29T14:55:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Music\LevelD.mp3</Source>
+      <Name>Resources\Music\LevelD</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.xnb</Output>
+      <Extra>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.wma</Extra>
+      <Time>2014-08-31T15:08:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Resources\Music\FirstSong.mp3</Source>
+      <Name>Resources\Music\FirstSong</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.xnb</Output>
+      <Extra>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.wma</Extra>
+      <Time>2014-08-31T23:25:46+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\SpacedContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\SpacedContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-07-30T21:08:59.0247867+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,259 @@
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.exe
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.pdb
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.csprojResolveAssemblyReference.cache
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.exe
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.pdb
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\black.xnb
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\player.xnb
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\star.xnb
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\asteroid.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.csprojResolveAssemblyReference.cache
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.exe
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\black.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\player.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\asteroid.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.exe
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.pdb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.pdb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\ElapsedGameTime.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\PlayerPosition.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\black.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\player.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\asteroid.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\ElapsedGameTime.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\PlayerPosition.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.exe
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.pdb
+E:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.csprojResolveAssemblyReference.cache
+E:\Spaced\Spaced\Spaced\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.exe
+E:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.pdb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\WhiteStar.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\YellowStar.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Planet.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Score.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Ammo\Laser.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Explosion.xnb
+J:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.csprojResolveAssemblyReference.cache
+J:\Spaced\Spaced\Spaced\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+J:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.exe
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\black.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\player.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\WhiteStar.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\asteroid.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\YellowStar.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Planet.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Ammo\Laser.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Explosion.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\ElapsedGameTime.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\PlayerPosition.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Score.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.exe
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.pdb
+J:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.pdb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Title.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybutton.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybuttonhover.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbutton.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbuttonhover.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbutton.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbuttonhover.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Title.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybutton.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybuttonhover.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbutton.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbuttonhover.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbutton.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbuttonhover.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonhover.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonstatic.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonhover.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonstatic.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonhover.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonstatic.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonhover.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonstatic.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonhover.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonstatic.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonhover.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonstatic.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\PlayBackground.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Ammo.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\ControlsBackground.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\PlayBackground.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\ControlsBackground.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Ammo.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\PausedBackground.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonhover.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonstatic.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\ShipExplosion.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\Laser.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.wma
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\AsteroidExplosion.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\ShipExplosion.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\AAF.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\WinWindow.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\FinalScore.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\PausedBackground.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonhover.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonstatic.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\ShipExplosion.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FadeTexture.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\AAF.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FinishLine.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\WinWindow.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\FinalScore.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\AsteroidExplosion.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\Laser.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\ShipExplosion.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.wma
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\Splash.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.exe.manifest
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.application
+E:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.exe.manifest
+E:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.application
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\Splash.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.exe.manifest
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.application
+J:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.exe.manifest
+J:\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.application
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FadeTexture.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FinishLine.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\NewDialogue.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\MissionInfo.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\PilotCardAdi.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\PilotCardAnes.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\PilotCardVedad.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.wma
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\Dialogue\AdiSay.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\Dialogue\AnesSay.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\Dialogue\VedadSay.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\MissionInfo.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\PilotCardAdi.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\PilotCardAnes.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\PilotCardVedad.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\Dialogue\AdiSay.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\Dialogue\AnesSay.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\Dialogue\VedadSay.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\NewDialogue.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.wma
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.xnb
+E:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.wma
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.xnb
+J:\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.wma
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\black.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\player.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\WhiteStar.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Characters\asteroid.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\YellowStar.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Planet.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Ammo\Laser.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Explosion.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Title.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonhover.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonstatic.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonhover.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonstatic.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonhover.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonstatic.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybutton.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybuttonhover.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbutton.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbuttonhover.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbutton.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbuttonhover.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\PlayBackground.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\ControlsBackground.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\PausedBackground.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonhover.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonstatic.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\ShipExplosion.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\AAF.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\WinWindow.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\Splash.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FadeTexture.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FinishLine.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\MissionInfo.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\PilotCardAdi.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\PilotCardAnes.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\PilotCardVedad.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\Dialogue\AdiSay.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\Dialogue\AnesSay.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Story\Dialogue\VedadSay.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\ElapsedGameTime.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\PlayerPosition.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Score.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Ammo.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\FinalScore.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\AsteroidExplosion.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\Laser.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\ShipExplosion.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\NewDialogue.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.xnb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.wma
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.wma
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.wma
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.exe.manifest
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.application
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.exe
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.pdb
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.csprojResolveAssemblyReference.cache
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.exe.manifest
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.application
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.exe
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.pdb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\WhiteStar.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\YellowStar.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Planet.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Ammo\Laser.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\Explosion.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Title.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonhover.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\controlsbuttonstatic.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonhover.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\exitbuttonstatic.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonhover.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\MainButtons\playbuttonstatic.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybutton.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\easybuttonhover.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbutton.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\hardbuttonhover.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbutton.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\normalbuttonhover.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\Difficulty\PlayBackground.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\ControlsBackground.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\PausedBackground.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonhover.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\MainMenu\resumebuttonstatic.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Particles\ShipExplosion.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\AAF.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\WinWindow.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\Splash.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FadeTexture.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Backgrounds\FinishLine.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Score.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\Ammo.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Fonts\FinalScore.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\AsteroidExplosion.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\Laser.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\ShipExplosion.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\SoundEffects\NewDialogue.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.xnb
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\MainMenu.wma
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\LevelD.wma
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Content\Resources\Music\FirstSong.wma
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.exe.manifest
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\bin\x86\Debug\Spaced.application
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.exe.manifest
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\Spaced\obj\x86\Debug\Spaced.application

@@ -1,0 +1,5 @@
+C:\Users\Vedo\Documents\Visual Studio 2010\Projects\Spaced\Spaced\SpacedContent\obj\x86\Debug\SpacedContent.contentprojResolveAssemblyReference.cache
+C:\Users\M3\Documents\Visual Studio 2010\Projects\Spaced\Spaced\SpacedContent\obj\x86\Debug\SpacedContent.contentprojResolveAssemblyReference.cache
+E:\Spaced\Spaced\SpacedContent\obj\x86\Debug\SpacedContent.contentprojResolveAssemblyReference.cache
+J:\Spaced\Spaced\SpacedContent\obj\x86\Debug\SpacedContent.contentprojResolveAssemblyReference.cache
+C:\Users\M3\Desktop\USB PREKOPIRAJ KAD ADI DA\Spaced\Spaced\SpacedContent\obj\x86\Debug\SpacedContent.contentprojResolveAssemblyReference.cache
